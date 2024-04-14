@@ -1,7 +1,7 @@
 <h1 align="center">
   <span style="font-size:larger;">Hi 👋, I'm Kaushal</span>
 </h1>
-<h3 align = "center">A Passionate Web developer</h3>
+<h3 align = "center">A Passionate Web developer from Nepal</h3>
 
 <!--
 **kaushal-cmyk/kaushal-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
