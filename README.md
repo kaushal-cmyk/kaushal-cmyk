@@ -1,5 +1,8 @@
-### Hi i'm Kaushal 👋<u>
-### A passionate developer from Nepal.
+<h1 align="center">
+  <span style="font-size:larger;">Hi 👋, I'm Kaushal</span>
+</h1>
+<u>
+<h2 align = "center">A Passionate Web developer</h2>
 
 <!--
 **kaushal-cmyk/kaushal-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
