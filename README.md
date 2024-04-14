@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 👦 I am Kaushal Adhikari.
- 🌱 I’m currently learning React/Nodejs.
- 🔭 I’m currently studying Computer Science in IOST, TU.
+ -👦 I am Kaushal Adhikari.
+ -🌱 I’m currently learning React/Nodejs.
+ -🔭 I’m currently studying Computer Science in IOST, TU.
