@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<ol>
  👦 I am Kaushal Adhikari.</br>
  🌱 I’m currently learning React/Nodejs.</br>
  🔭 I’m currently studying Computer Science in IOST, TU.</br>
+</ol>
