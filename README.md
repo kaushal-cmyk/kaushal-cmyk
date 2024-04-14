@@ -1,4 +1,4 @@
-### Hi i'm Kaushal 👋
+### Hi i'm Kaushal 👋<u>
 ### A passionate developer from Nepal.
 
 <!--
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
  👦 I am Kaushal Adhikari.</br>
- 🌱 I’m currently learning React/Nodejs.
- 🔭 I’m currently studying Computer Science in IOST, TU.
+ 🌱 I’m currently learning React/Nodejs.</br>
+ 🔭 I’m currently studying Computer Science in IOST, TU.</br>
