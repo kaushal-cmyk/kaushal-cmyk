@@ -1,4 +1,5 @@
 ### Hi i'm Kaushal 👋
+### A passionate developer from Nepal.
 
 <!--
 **kaushal-cmyk/kaushal-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  👦 I am Kaushal Adhikari.
  🌱 I’m currently learning React/Nodejs.
  🔭 I’m currently studying Computer Science in IOST, TU.
