@@ -6,7 +6,7 @@
 
 <li>🔭 I’m currently studying Computer Science in IOST, TU.</li>
 
-<li>🌱 I’m learing React/Nodejs.</li>
+<li>🌱 Currently learing React/Nodejs.</li>
 
 </ul>
 
