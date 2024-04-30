@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-
 <ul>
 <li>👦 I'm Kaushal Adhikari.</li>
 
@@ -9,6 +8,7 @@
 <li>🌱 Currently learing React/Nodejs.</li>
 
 </ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-cmyk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
