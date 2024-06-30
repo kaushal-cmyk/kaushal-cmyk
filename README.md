@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 <ul>
-<li>👦 I'm Kaushal Adhikari.</li>
+<li>👦 I'm Kaushal Adhikari</li>
 
 <li>🔭 I’m currently studying Computer Science in IOST, TU.</li>
 
