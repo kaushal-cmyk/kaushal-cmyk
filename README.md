@@ -26,7 +26,7 @@
 
 ## 🎮 Daily Game Progress
 
-![Game GIF](./game.gif)
+![My GitHub Game](game.gif)
 
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-cmyk&" alt="kaushal-cmyk" /></p> --!>
 
