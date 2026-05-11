@@ -3,7 +3,8 @@
 <ul>
 <li>👦 I'm Kaushal Adhikari.</li>
 
-<li>🔭 I’m currently studying Computer Science in IOST, TU.</li>
+<li>🔭 Studied Computer Science in IOST, TU.</li>
+<li>   Asp.net Core / .Net Framework </li>
 
 </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-cmyk" /> </p>
