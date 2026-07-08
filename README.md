@@ -3,7 +3,7 @@
 <ul>
 <li>👦 I'm Kaushal Adhikari.</li>
 
-<li>🔭 Studied Computer Science in IOST, TU.</li>
+<li>🔭 Only knows Computer </li>
 <li>   Asp.net Core / .Net Framework </li>
 
 </ul>
