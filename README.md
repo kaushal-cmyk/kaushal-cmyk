@@ -3,7 +3,7 @@
 <ul>
 <li>👦 I'm Kaushal Adhikari.</li>
 
-<li>🔭 Only knows Computer </li>
+<li>🔭 Backend developer specializing in ASP.NET Core, Clean Architecture, and scalable API design.</li>
 <li>   Asp.net Core / .Net Framework </li>
 
 </ul>
